@@ -1,0 +1,5 @@
+INFO 2021-12-07 11:22:00,174 - Olá Tião
+CRITICAL 2021-12-07 11:22:00,174 - Erro grave
+DEBUG 2021-12-07 11:22:00,174 - Testando retorno da variável 'a' = 10
+WARNING 2021-12-07 11:22:00,174 - Módulo depreciado, atualize pelo PIP o módulo.
+ERROR 2021-12-07 11:22:00,174 - Erro de execução
