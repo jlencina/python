@@ -74,5 +74,6 @@ for k in range(50):
     list_chaos += [academia.calcular_caos()]
 
 
+
 import seaborn as sns
 sns.displot(list_chaos)
