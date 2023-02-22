@@ -7,3 +7,4 @@ print(t[:-1])
 #Atribuindo os valores das tuplas as variáveis
 a, b = (1, 2)
 print(a, b)
+
